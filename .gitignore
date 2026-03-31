@@ -1,0 +1,4 @@
+archive/*
+.ipynb_checkpoints/*
+cheatsheet.txt
+processed_data.npz
